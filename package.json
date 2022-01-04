@@ -1,0 +1,30 @@
+{
+  "name": "2-projektas",
+  "version": "1.0.0",
+  "description": "Musu pirmas npm projektas",
+  "main": "index.js",
+  "scripts": {
+    "dev": "live-server --port=3000 --host=localhost",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "HTML",
+    "CSS"
+  ],
+  "author": "Aleksas",
+  "license": "MIT",
+  "devDependencies": {
+    "live-server": "^1.2.1"
+  },
+  "dependencies": {
+    "D": "^1.0.0"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/aneniskis/2-projektas.git"
+  },
+  "bugs": {
+    "url": "https://github.com/aneniskis/2-projektas/issues"
+  },
+  "homepage": "https://github.com/aneniskis/2-projektas#readme"
+}
