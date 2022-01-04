@@ -15,16 +15,5 @@
   "license": "MIT",
   "devDependencies": {
     "live-server": "^1.2.1"
-  },
-  "dependencies": {
-    "D": "^1.0.0"
-  },
-  "repository": {
-    "type": "git",
-    "url": "git+https://github.com/aneniskis/2-projektas.git"
-  },
-  "bugs": {
-    "url": "https://github.com/aneniskis/2-projektas/issues"
-  },
-  "homepage": "https://github.com/aneniskis/2-projektas#readme"
+  }
 }
