@@ -7,6 +7,8 @@ main {
     margin-left: 25%; 
     margin-top: 8%;
     display: inline-block;
+    width: 800px;
+    margin-left: calc((100% - 800px) / 2)
 }
 img {
     width: 40%;
