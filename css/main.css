@@ -1,3 +1,5 @@
+@import '../css/base.css';
+@import '../css/layout.css';
 body {
 }
 main {
@@ -6,7 +8,7 @@ main {
     margin-top: 8%;
     display: inline-block;
     width: 800px;
-    margin-left: calc((100% - 800px) / 2)
+    margin-left: calc((100% - 800px) / 2);
 }
 .picture {
     width: 40%;
