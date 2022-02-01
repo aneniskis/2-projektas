@@ -49,3 +49,27 @@ main {
     color: #fff; 
     text-transform: uppercase;
 }
+.conteiner{
+    /* max-height: 100vh; */
+}
+
+@media (max-width:800px) {
+    .conteiner {
+        width:500px;
+        margin: 0 calc(50% - 250px);
+    }
+}
+@media (max-width:600px) {
+    .conteiner {
+        width:400px;
+        margin: 0 calc(50% - 200px);
+    }
+}
+@media (max-width:440px) {
+    .conteiner {
+        padding-left: 20px;
+        padding-right: 20px;
+        width:100%;
+        margin: 0;
+    }
+}
